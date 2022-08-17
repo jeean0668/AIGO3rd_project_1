@@ -1,13 +1,7 @@
-## Sketch Your Own GAN
- [**Project**](https://peterwang512.github.io/GANSketching/) | [**Paper**](https://arxiv.org/abs/2108.02774) | [**Youtube**](https://www.youtube.com/watch?v=1smwQ-tSCjM) | [**Slides**](https://drive.google.com/file/d/1ADtaOLauX3h-mB3tmjdMFs1hcnJNKZwO/edit)
+## AIGO3rd First Project(not permitted)
+ [**Project**](https://github.com/jeean0668/AIGO3rd_project_1/) | [**Paper**](https://arxiv.org/abs/2108.02774) | [**Youtube**](https://www.youtube.com/watch?v=1smwQ-tSCjM) | [**Slides**](https://drive.google.com/file/d/1ADtaOLauX3h-mB3tmjdMFs1hcnJNKZwO/edit)
 
-
-
-
-<img src="images/teaser_video.gif" width="800px"/>
-
-
-Our method takes in one or a few hand-drawn sketches and customizes an off-the-shelf GAN to match the input sketch. While our new model changes an object’s shape and pose, other visual cues such as color, texture, background, are faithfully preserved after the modification.
+Our project's final goal is modifying the baseline model "Sketch your own GAN" more flexible and convenience. User draw some sketches and write some sentences which include the informations about them, and then our model will create the personalized GAN model following by sketch and text.  
 <br><br><br>
 
 [Sheng-Yu Wang](https://peterwang512.github.io/)<sup>1</sup>, [David Bau](https://people.csail.mit.edu/davidbau/home/)<sup>2</sup>, [Jun-Yan Zhu](https://cs.cmu.edu/~junyanz)<sup>1</sup>.
